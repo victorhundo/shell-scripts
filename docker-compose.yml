@@ -1,10 +1,10 @@
 version: '2'
 
 services:
-    epol:
+    fox:
         build: .
-        image: epol:latest
+        image: fox:latest
         volumes:
-            - ./:/epol
+            - ./:/fox
         stdin_open: true
         tty: true
