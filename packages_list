@@ -1,0 +1,28 @@
+#################################################################################################
+#								       															#
+# Lista de pacotes que serão instalados															#
+# para excluir a instalação de algum pacote da lista, basta comenta-lo 	       					#
+# Autores: Victor Hugo - victorhundo@gmail.com                                                  #
+# Janeiro de 2017											       								#
+#								       															#
+#################################################################################################
+
+#Pacotes:
+
+#apache
+curl
+#easyinstall
+#eclipse
+#firefox
+#intellij
+#java8
+#maven
+#node
+#openvpn
+#oracle
+#slack
+#spotify
+#virtualbox
+#yakuake
+
+#END
