@@ -1,10 +1,11 @@
 version: '2'
 
 services:
-    fox:
-        build: .
-        image: fox:latest
+    ubuntu:
+        build: docker/ubuntu
+        image: tst-ubuntu:latest
         volumes:
-            - ./:/fox
+            - ./:/scripts
+        hostname: tst-ubuntu
         stdin_open: true
         tty: true
