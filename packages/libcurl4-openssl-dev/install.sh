@@ -3,5 +3,5 @@
 # author: pedro lira - lirapdo@gmail.com
 #
 
-apt-get install libcurl4-openssl-dev
+apt-get install libcurl4-openssl-dev -y
 
