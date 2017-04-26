@@ -1,6 +1,6 @@
 #################################################################################################
 #                                                                                                                                                                                       #
-# Script de instalaço RStudio                                                           
+# Script de instalaço Alloy                                                           
                                                      # #
 # Autores: Ana Godoy - godoyisadora@gmail.com      #
 # Abril de 2017                                                                                                                                                       #
@@ -8,13 +8,16 @@
 #################################################################################################
 
 #Update
-apt-get update
+apt-get -y update
 
-#Install gdebi
-apt-get -y install gdebi-core
+#Install Java6
+apt-get -y install python-software-properties
+add-apt-repository ppa:webupd8team/java
+apt-get -y update
+apt-get -y install oracle-java6-installer
 
-#Download RStudio
-wget https://download2.rstudio.org/rstudio-server-1.0.143-amd64.deb
+#Download Alloy
+wget http://alloy.mit.edu/alloy/downloads/alloy4.2.jar
 
-#Install RStudio
-gdebi rstudio-server-1.0.143-amd64.deb
+#Install Alloy
+
