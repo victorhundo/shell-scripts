@@ -3,7 +3,7 @@
 #################################################################################################
 #								       															#
 # Script de instalação do Curl       															#
-# Autores: Tainah Emmanuele - tainahemmanuele@gmail.com e Victor Hugo - victorhundo@gmail.com 	#
+# Autor: Javan Lacerda  #
 # Janeiro de 2017											       								#
 #								       															#
 #################################################################################################
