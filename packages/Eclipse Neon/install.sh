@@ -3,8 +3,8 @@
 #########################################################################
 #								       								    #
 # Script de instalação do Eclipse Neon	       	                        #
-# Autores: Victor Hugo - victorhundo@gmail.com 							#
-# Janeiro de 2017											       		#
+# Autor: Javan Lacerda 							#
+# Abril de 2017											       		#
 #								       								    #
 #########################################################################
 
