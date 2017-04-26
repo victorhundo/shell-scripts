@@ -1,3 +1,3 @@
 #!/bin/bash
 
-apt-get install quota quotatool
+apt-get install quota quotatool -y
