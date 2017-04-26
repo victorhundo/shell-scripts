@@ -3,4 +3,4 @@
 # author: pedro lira - lirapdo@gmail.com
 #
 
-apt-get install meld
+apt-get install meld -y
